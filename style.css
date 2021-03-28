@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-cards{
+    width: 100%;
+    height: auto;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.post-card{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    
+}
+.post-card li{
+    list-style: none;
+    text-align: center;
+}
+.card-content{
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+    background-color: thistle;
+}
