@@ -7,7 +7,6 @@
 ![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas Mobile<br>
 ![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas Ipad<br>
 ![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas 1024x768<br>
-![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas 1366x768<br>
 ![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas 1440x900<br>
 ![check](https://user-images.githubusercontent.com/52139246/97096897-3d315900-1649-11eb-8cc2-5f8cfcfd1532.png) Telas 1920x1080<br>
 
