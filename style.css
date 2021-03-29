@@ -107,9 +107,47 @@
         width: 49%;
        margin-bottom: 20px;
     }
-    
-    
-    
-   
 
 }
+
+@media only screen and (min-width:1024px) and (max-width:1440px){
+    .post-card {
+        display: flex;
+        flex-direction: row;
+       flex-wrap: wrap;
+      
+     }
+    .post-card li{
+        width: 32%;
+    }
+    h5{
+        font-size: 20px;
+   }
+
+}
+@media only screen and (min-width:1440px){
+    .post-card {
+        display: flex;
+        flex-direction: row;
+       flex-wrap: wrap;
+      
+     }
+    .post-card li{
+        width: 32%;
+    }
+}
+
+@media only screen and (min-width:1920px){
+    .post-card {
+        display: flex;
+        flex-direction: row;
+       flex-wrap: wrap;
+      
+     }
+    .post-card li{
+        width: 21%;
+       
+    }
+
+}
+
